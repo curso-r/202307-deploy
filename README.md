@@ -20,8 +20,12 @@
 
 ## Exemplos de Aula
 
-| Exemplo |
-|:--------|
+| Exemplo                                                                       |
+|:------------------------------------------------------------------------------|
+| [01_api.R](https://curso-r.github.io/202307-deploy/exemplos/01_api.R)         |
+| [01_plumber.R](https://curso-r.github.io/202307-deploy/exemplos/01_plumber.R) |
+| [api-deploy](https://curso-r.github.io/202307-deploy/exemplos/api-deploy)     |
+| [golemdeploy](https://curso-r.github.io/202307-deploy/exemplos/golemdeploy)   |
 
 ## Redes Sociais da Curso-R
 
